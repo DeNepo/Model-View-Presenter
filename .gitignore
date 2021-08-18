@@ -1,3 +1,7 @@
+# persisted data
+data/persistent.json
+data/hello.txt
+
 # Logs
 logs
 *.log
